@@ -14,7 +14,7 @@ cd equalizer-react
 npm install
 ```
 
-### Hoe to run this App
+### Run this App
 
 npm run dev
 
