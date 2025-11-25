@@ -36,7 +36,7 @@ docker run -p 8080:80 dj-eq-visualizer:latest
 
 ## About Me
 
-**Balasubramani (Bala)**  
+**Balasubramani K (Bala)**  
 Founder – Kubelancer Private Limited  
 Cloud & DevOps Engineer (20+ years experience)
 
