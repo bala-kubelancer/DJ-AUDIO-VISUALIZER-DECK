@@ -22,6 +22,13 @@ npm ci
 npm run dev
 ```
 
+## Containerization
+
+```
+docker build -t dj-eq-visualizer:latest .
+docker run -p 8080:80 dj-eq-visualizer:latest
+```
+### open http://localhost:8080
 
 
 
