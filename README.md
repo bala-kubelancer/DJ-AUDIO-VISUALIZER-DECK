@@ -30,5 +30,34 @@ docker run -p 8080:80 dj-eq-visualizer:latest
 ```
 ### open http://localhost:8080
 
+# :) Happy Computing 
+
+---
+
+## About Me
+
+**Balasubramani (Bala)**  
+Founder – Kubelancer Private Limited  
+Cloud & DevOps Engineer (20+ years experience)
+
+## Contact
+Website: https://kubelancer.com
+Email: bala@kubelancer.com
+Phone: +91-9880902138
+
+## Services
+- On-Demand Cloud Architect & Migration Specilist (AWS, Azure, GCP)  
+- Cost Optimization  
+- DevOps & CI/CD  
+- Containerization, Docker, Kubernetes 
+- DevSecOps
+- GitOps
+- Service Mesh Advisor
+- Cost Optimization  
+- DevSecOps  
+- Monitoring & Logging  
+
+---
+
 
 
